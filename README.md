@@ -1,7 +1,7 @@
 # EXP 7 - ARMA IN PYTHON
 
 ## AIM:
-To implement ARIMA model in python.
+To implement ARMA model in python.
 
 ## ALGORITHM:
 
